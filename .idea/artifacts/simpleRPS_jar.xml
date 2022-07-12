@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="simpleRPS:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/simpleRPS_jar</output-path>
+    <root id="archive" name="simpleRPS.jar">
+      <element id="module-output" name="simpleRPS" />
+    </root>
+  </artifact>
+</component>
